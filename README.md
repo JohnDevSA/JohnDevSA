@@ -10,14 +10,14 @@
 
 ### 🚀 What I'm building
 
-**[Buabot](https://buabot.co.za)** is an AI-native, multi-tenant chatbot platform for any business. You train a bot on your own content, theme it to your brand and embed it on your site with one script tag.
+**[Buabot](https://buabot.co.za)** is a multi-tenant AI chatbot platform for any business. You train a bot on your own content, theme it to your brand and embed it on your site with one script tag.
 RAG on pgvector · Voyage embeddings + rerank · Claude for answers · per-tenant runtime theming · embeddable widget.
 
 **[Commatix](https://github.com/JohnDevSA/Commatix)** is a multi-tenant communication and workflow automation platform for bulk Email, SMS, WhatsApp and voice, built with Nuxt, Laravel, RabbitMQ and Redis.
 
 ### 🧠 How I build
 
-I'm an AI-native engineer and use **Claude Code** every day across a structured workflow:
+I use **Claude Code** every day across a structured workflow:
 
 - **CLAUDE.md → Skills → Hooks → Agents**: project context, reusable skills, guard-rail hooks and sub-agents for focused tasks
 - **Issue → plan → PR**: each feature starts as a scoped GitHub issue, gets planned and ships as a reviewed PR
